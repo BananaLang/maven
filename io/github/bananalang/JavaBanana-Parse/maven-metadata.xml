@@ -3,9 +3,11 @@
   <groupId>io.github.bananalang</groupId>
   <artifactId>JavaBanana-Parse</artifactId>
   <versioning>
+    <release>1.0-beta-1</release>
     <versions>
       <version>1.0-SNAPSHOT</version>
+      <version>1.0-beta-1</version>
     </versions>
-    <lastUpdated>20211210164706</lastUpdated>
+    <lastUpdated>20211210220753</lastUpdated>
   </versioning>
 </metadata>
