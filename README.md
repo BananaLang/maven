@@ -11,7 +11,7 @@ Add the following repository to your `pom.xml`:
 ```xml
 <repositories>
   <repository>
-    <id>bananalang.github.io</id>
+    <id>bananalang</id>
     <url>https://bananalang.github.io/maven</url>
   </repository>
 </repositories>
