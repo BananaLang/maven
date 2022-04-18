@@ -2,36 +2,36 @@
 <metadata modelVersion="1.1.0">
   <groupId>io.github.bananalang</groupId>
   <artifactId>JavaBanana-Compile</artifactId>
-  <version>1.0-SNAPSHOT</version>
   <versioning>
+    <lastUpdated>20220418142448</lastUpdated>
     <snapshot>
-      <timestamp>20211213.195241</timestamp>
-      <buildNumber>5</buildNumber>
+      <timestamp>20220418.142448</timestamp>
+      <buildNumber>6</buildNumber>
     </snapshot>
-    <lastUpdated>20211213195241</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0-20211213.195241-5</value>
-        <updated>20211213195241</updated>
+        <value>1.0-20220418.142448-6</value>
+        <updated>20220418142448</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20211213.195241-5</value>
-        <updated>20211213195241</updated>
+        <value>1.0-20220418.142448-6</value>
+        <updated>20220418142448</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>1.0-20211213.195241-5</value>
-        <updated>20211213195241</updated>
+        <value>1.0-20220418.142448-6</value>
+        <updated>20220418142448</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.0-20211213.195241-5</value>
-        <updated>20211213195241</updated>
+        <value>1.0-20220418.142448-6</value>
+        <updated>20220418142448</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
+  <version>1.0-SNAPSHOT</version>
 </metadata>
