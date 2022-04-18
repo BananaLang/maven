@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>io.github.bananalang</groupId>
+  <artifactId>JavaBanana-Stdlib</artifactId>
+  <versioning>
+    <lastUpdated>20220418143411</lastUpdated>
+    <snapshot>
+      <timestamp>20220418.143411</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20220418.143411-1</value>
+        <updated>20220418143411</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20220418.143411-1</value>
+        <updated>20220418143411</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>1.0-SNAPSHOT</version>
+</metadata>
