@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.github.bananalang</groupId>
+  <artifactId>JavaBanana-Typecheck</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20220419141708</lastUpdated>
+  </versioning>
+</metadata>
