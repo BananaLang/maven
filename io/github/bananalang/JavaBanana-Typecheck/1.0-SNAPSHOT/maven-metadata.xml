@@ -3,33 +3,33 @@
   <groupId>io.github.bananalang</groupId>
   <artifactId>JavaBanana-Typecheck</artifactId>
   <versioning>
-    <lastUpdated>20220509202239</lastUpdated>
+    <lastUpdated>20220510223017</lastUpdated>
     <snapshot>
-      <timestamp>20220509.202239</timestamp>
-      <buildNumber>52</buildNumber>
+      <timestamp>20220510.223017</timestamp>
+      <buildNumber>53</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0-20220509.202239-52</value>
-        <updated>20220509202239</updated>
+        <value>1.0-20220510.223017-53</value>
+        <updated>20220510223017</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20220509.202239-52</value>
-        <updated>20220509202239</updated>
+        <value>1.0-20220510.223017-53</value>
+        <updated>20220510223017</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>1.0-20220509.202239-52</value>
-        <updated>20220509202239</updated>
+        <value>1.0-20220510.223017-53</value>
+        <updated>20220510223017</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.0-20220509.202239-52</value>
-        <updated>20220509202239</updated>
+        <value>1.0-20220510.223017-53</value>
+        <updated>20220510223017</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
